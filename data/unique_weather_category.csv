@@ -1,7 +1,7 @@
-weather_id,weather_main_x,weather_description
+weather_id_x,weather_main,weather_description
+803,Clouds,broken clouds
 800,Clear,sky is clear
 802,Clouds,scattered clouds
-803,Clouds,broken clouds
 804,Clouds,overcast clouds
 801,Clouds,few clouds
 500,Rain,light rain
@@ -15,8 +15,8 @@ weather_id,weather_main_x,weather_description
 200,Thunderstorm,thunderstorm with light rain
 201,Thunderstorm,thunderstorm with rain
 741,Fog,fog
-202,Thunderstorm,thunderstorm with heavy rain
 300,Drizzle,light intensity drizzle
+202,Thunderstorm,thunderstorm with heavy rain
 503,Rain,very heavy rain
 521,Rain,shower rain
 601,Snow,snow
